@@ -1,4 +1,4 @@
-# Metode Peramalan Deret Waktu — STA1341
+# Metode Peramalan Deret Waktu (STA1341)
 
 ## 📚 Deskripsi
 
