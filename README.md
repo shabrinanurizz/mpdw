@@ -1,10 +1,10 @@
 # Metode Peramalan Deret Waktu (STA1341)
 
-## 📚 Deskripsi
+## Deskripsi
 
 Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah Metode Peramalan Deret Waktu (STA1341). Repository mencakup kode, dataset, serta hasil analisis.
 
-## 📂 Materi
+## Materi
 
 | Pertemuan    | Materi                                                                                                                                             |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
