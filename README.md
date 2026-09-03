@@ -10,7 +10,7 @@ Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah Metode Pera
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pertemuan 1  | Smoothing Method: Single Moving Average (SMA), Double Moving Average (DMA), Single Exponential Smoothing (SES), Double Exponential Smoothing (DES), Holt-Winters |
 | Pertemuan 2  | Autokorelasi: Deteksi dan Penanganan dengan Cochrane-Orcutt dan Hildreth-Lu                                                                        |
-| Pertemuan 3  |                                                                                                                                                    |
+| Pertemuan 3  | Distributed Lag Model (DLM): Regresi Distributed Lag, Model Koyck, dan Autoregressive Distributed Lag (ARDL)                                       |
 | Pertemuan 4  |                                                                                                                                                    |
 | Pertemuan 5  |                                                                                                                                                    |
 | Pertemuan 6  |                                                                                                                                                    |
